@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "706372051583",
+    "firebase_url": "https://gdrive-auth-23222.firebaseio.com",
+    "project_id": "gdrive-auth-23222",
+    "storage_bucket": "gdrive-auth-23222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706372051583:android:8a9924f13ce10007",
+        "android_client_info": {
+          "package_name": "com.juniar.googledriveauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706372051583-k2biiuukdtcs71rpe628fl10o74bihqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juniar.googledriveauth",
+            "certificate_hash": "08e0a3ab607fc8a53ffb0622ee15207b7e2fcc58"
+          }
+        },
+        {
+          "client_id": "706372051583-8blb9cfrm1ob6aaphqh47op9540eltb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIKHldYaUCG6yLD_T2LU7iUr2OqDlN9Gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706372051583-8blb9cfrm1ob6aaphqh47op9540eltb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
